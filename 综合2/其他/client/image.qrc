@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/呆呆兽.webp</file>
+        <file>image/独角犀牛.webp</file>
+        <file>image/飞腿郎.webp</file>
+        <file>image/吉利蛋.webp</file>
+        <file>image/杰尼龟.webp</file>
+        <file>image/卡拉卡拉.webp</file>
+        <file>image/可达鸭.webp</file>
+        <file>image/妙蛙种子.webp</file>
+        <file>image/皮卡丘.webp</file>
+        <file>image/皮皮.webp</file>
+        <file>image/小火龙.webp</file>
+        <file>image/小火马.webp</file>
+        <file>image/start.png</file>
+    </qresource>
+</RCC>
